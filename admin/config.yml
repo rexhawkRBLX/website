@@ -1,0 +1,5 @@
+backend:
+  name: github
+  repo: rexhawkRBLX/website
+
+media_folder: "images/uploads"
